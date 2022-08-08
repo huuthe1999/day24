@@ -1,0 +1,10 @@
+.loading {
+	position: initial;
+	display: inline-block;
+}
+
+.loading.custom {
+	position: relative;
+	top: 25%;
+	transform: translateY(25%);
+}
